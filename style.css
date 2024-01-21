@@ -63,3 +63,7 @@ body{
     width: 10rem;
     height: 10rem;
 }
+.lower button:hover{
+    background-color: black;
+    color: white;
+}
